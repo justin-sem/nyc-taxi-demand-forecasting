@@ -141,14 +141,11 @@ Potential improvements include:
 ## 📁 Project Structure
 
 ```text
-NYC-Taxi-Demand-Forecasting/
-│
+nyc-taxi-demand-forecasting/
 ├── taxi_demand_forecasting.ipynb
 ├── README.md
 ├── requirements.txt
-├── .gitignore
-└── data/
-    └── README.md
+└── .gitignore
 ```
 
 ## 👤 Author
