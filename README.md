@@ -1,5 +1,3 @@
-# nyc-taxi-demand-forecasting
-
 # NYC Yellow Taxi Demand Forecasting
 
 ## 📌 Project Overview
