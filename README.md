@@ -147,9 +147,3 @@ nyc-taxi-demand-forecasting/
 ├── requirements.txt
 └── .gitignore
 ```
-
-## 👤 Author
-
-**Justin Sem**
-
-This project was developed as a machine learning and data analytics project focused on demand forecasting and operational decision-making.
